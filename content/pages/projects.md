@@ -9,11 +9,48 @@ Research Proposal
 
 The research proposal project for this course consists of three parts:
 
-| PROJECTS DELIVERABLES | DUE DATES |
-| --- | --- |
-| Confirm topic area | Lec #7 |
-| Research proposal | Lec #21 |
-| Final presentation | Lec #23 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROJECTS DELIVERABLES
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Confirm topic area
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research proposal
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #23
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignment and evaluation will be based primarily on a research proposal and presentation. Each graduate student will prepare a literature review on a topic related to bio-inspired structures and/or nanotechnology. Students must confirm the topic area of the literature review with the course instructors by Lec #7. The topic area may not be the subject of the graduate student's thesis research.
 
