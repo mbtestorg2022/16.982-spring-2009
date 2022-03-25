@@ -30,7 +30,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction, overview: bio-inspired structures, applications (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB]({{< baseurl >}}/resources/mit16_982s09_lec01))
+Introduction, overview: bio-inspired structures, applications ([PDF - 1.5MB]({{< baseurl >}}/resources/mit16_982s09_lec01))
 {{< tdclose >}}
 
 {{< trclose >}}
